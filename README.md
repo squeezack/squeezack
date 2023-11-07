@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gilang Ramadhan Purba</h1>
 <h3 align="center">A passionate Backend developer from Indonesian</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squeezack)](https://github.com/anuraghazra/github-readme-stats)
 
 - 💬 Ask me about **PHP, Python, Django, Laravel, React**
 
 - 📫 How to reach me **gilanghck@gmail.com**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squeezack)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
