@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Gilang Ramadhan Purba</h1>
-<h3 align="center">A passionate Backend developer from Indonesian</h3>
+### Hi there 👋, Gilang Raa
+#### A passionate Backend developer from Indonesian
+![A passionate Backend developer from Indonesian](https://ceomichaelhr.com/wp-content/uploads/2022/08/background-banners-technology-1024x256.jpg)
+
+Hello, I'm Gilang Raa, a passionate backend programmer and avid gamer with a deep interest in the realms of technology and video games. I possess expertise in developing efficient and reliable software that powers the core functionalities of modern web applications and software systems.
+
 
 
 - 💬 Ask me about **PHP, Python, Django, Laravel, React**
