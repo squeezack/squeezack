@@ -7,11 +7,7 @@ Hello, I'm Gilang Raa, a passionate backend programmer and avid gamer with a dee
 
 
 
-- 💬 Ask me about **PHP, Python, Django, Laravel, React**
-
-- 📫 How to reach me **gilanghck@gmail.com**
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squeezack&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squeezack&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
