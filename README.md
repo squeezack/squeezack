@@ -1,6 +1,7 @@
+(https://ceomichaelhr.com/wp-content/uploads/2022/08/background-banners-technology-1024x256.jpg)
 ### Hi there 👋, Gilang Raa
 #### A passionate Backend developer from Indonesian
-![A passionate Backend developer from Indonesian](https://ceomichaelhr.com/wp-content/uploads/2022/08/background-banners-technology-1024x256.jpg)
+![A passionate Backend developer from Indonesian]
 
 Hello, I'm Gilang Raa, a passionate backend programmer and avid gamer with a deep interest in the realms of technology and video games. I possess expertise in developing efficient and reliable software that powers the core functionalities of modern web applications and software systems.
 
